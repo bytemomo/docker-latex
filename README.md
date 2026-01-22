@@ -5,7 +5,7 @@ Simple docker image to build latex projects.
 ## How to build the image
 
 ```sh
-docker build github.com/kosmios1/docker-latex -t docker-latex
+docker build github.com/bytemomo/docker-latex -t docker-latex
 ```
 
 ## How to use
